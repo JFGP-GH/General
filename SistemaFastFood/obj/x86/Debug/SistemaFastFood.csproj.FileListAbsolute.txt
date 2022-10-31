@@ -1,0 +1,96 @@
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csprojResolveAssemblyReference.cache
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCategoria.resources
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.Properties.Resources.resources
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csproj.GenerateResource.Cache
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.exe
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.pdb
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.dll
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.dll
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.pdb
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.pdb
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.xml
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+C:\Users\DavidRibera\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.exe
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.pdb
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.dll
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.dll
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.pdb
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.xml
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.pdb
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csprojResolveAssemblyReference.cache
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCategoria.resources
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.Properties.Resources.resources
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csproj.GenerateResource.Cache
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBase.resources
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\Utilitario.dll
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCliente.resources
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBaseBuscar.resources
+C:\Users\David\Google Drive\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProveedor.resources
+E:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+E:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.exe
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.pdb
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.dll
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.dll
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\Utilitario.dll
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.pdb
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.xml
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.pdb
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csprojResolveAssemblyReference.cache
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBase.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBaseBuscar.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCategoria.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCliente.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProveedor.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.Properties.Resources.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csproj.GenerateResource.Cache
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProducto.resources
+G:\Mi unidad\PROYECTOS\VS2010\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUPrincipal.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.exe
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\Utilitario.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.xml
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csprojResolveAssemblyReference.cache
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBase.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBaseBuscar.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCategoria.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCliente.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUPrincipal.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProducto.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProveedor.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUVenta.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.Properties.Resources.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csproj.GenerateResource.Cache
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.exe
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\SistemaFastFood.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\Utilitario.dll
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\CONEXION.xml
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\bin\Debug\NEGOCIO.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csprojResolveAssemblyReference.cache
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBase.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUBaseBuscar.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCategoria.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUCliente.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUPrincipal.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProducto.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProveedor.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUVenta.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.Properties.Resources.resources
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.csproj.GenerateResource.Cache
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.exe
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.pdb
+D:\APRENDIZAJE\2022\ITPIAI 3ER AÑO\Programación 3\Sistema\AppWindows\SistemaFastFood\SistemaFastFood\SistemaFastFood\obj\x86\Debug\SistemaFastFood.IUProductoBuscar.resources

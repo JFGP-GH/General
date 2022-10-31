@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{972268A0-DA68-486E-9B8B-ED10B0408F98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaFastFood</RootNamespace>
+    <AssemblyName>SistemaFastFood</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SistemaFastFood.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utilitario">
+      <HintPath>..\DLL\Utilitario.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IUBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUBase.Designer.cs">
+      <DependentUpon>IUBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUBaseBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUBaseBuscar.Designer.cs">
+      <DependentUpon>IUBaseBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUCategoria.Designer.cs">
+      <DependentUpon>IUCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUCliente.Designer.cs">
+      <DependentUpon>IUCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUClienteBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUClienteBuscar.Designer.cs">
+      <DependentUpon>IUClienteBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUPrincipal.Designer.cs">
+      <DependentUpon>IUPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUProducto.Designer.cs">
+      <DependentUpon>IUProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUProductoBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUProductoBuscar.Designer.cs">
+      <DependentUpon>IUProductoBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUProveedor.Designer.cs">
+      <DependentUpon>IUProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUProveedorBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUProveedorBuscar.Designer.cs">
+      <DependentUpon>IUProveedorBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUVenta.Designer.cs">
+      <DependentUpon>IUVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUVentaBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUVentaBuscar.Designer.cs">
+      <DependentUpon>IUVentaBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="IUBase.resx">
+      <DependentUpon>IUBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUBaseBuscar.resx">
+      <DependentUpon>IUBaseBuscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUCategoria.resx">
+      <DependentUpon>IUCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUCliente.resx">
+      <DependentUpon>IUCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUPrincipal.resx">
+      <DependentUpon>IUPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUProducto.resx">
+      <DependentUpon>IUProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUProductoBuscar.resx">
+      <DependentUpon>IUProductoBuscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUProveedor.resx">
+      <DependentUpon>IUProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUVenta.resx">
+      <DependentUpon>IUVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CONEXION\CONEXION.vbproj">
+      <Project>{31876ED7-2EE9-468C-8C7A-19493B12841D}</Project>
+      <Name>CONEXION</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NEGOCIO\NEGOCIO.csproj">
+      <Project>{007DED39-6C39-4F4D-90AE-49FAB135F574}</Project>
+      <Name>NEGOCIO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-file-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-find-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devices-media-floppy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text-Edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devices-printer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-exit-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
